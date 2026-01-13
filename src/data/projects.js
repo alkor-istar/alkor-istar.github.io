@@ -5,7 +5,7 @@ export const projects = [
         description:
             "Real-time metrics dashboard using WebSockets/Kafka, PostgreSQL and React. Designed for observability and scale.",
         tags: ["React", "Node.js", "WebSockets", "PostgreSQL", "Docker"],
-        github: "https://github.com/youruser/realtime-dashboard",
+        github: "https://github.com/alkor-istar/realtime-dashboard",
     },
     {
         id: "powerlaw-bot",
@@ -13,7 +13,7 @@ export const projects = [
         description:
             "Automated trading system with risk management, exchange adapters and graceful shutdown handling.",
         tags: ["Python", "APIs", "Concurrency", "Trading"],
-        github: "https://github.com/youruser/powerlaw-bot",
+        github: "https://github.com/alkor-istar/powerlaw-bot",
     },
     {
         id: "portfolio",
@@ -21,5 +21,6 @@ export const projects = [
         description:
             "Modern portfolio built with Vite, React, Tailwind and animation hooks.",
         tags: ["React", "Tailwind", "Vite"],
+        github: "https://github.com/alkor-istar/alkor-istar.github.io",
     },
 ];
