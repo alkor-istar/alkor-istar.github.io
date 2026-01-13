@@ -53,7 +53,7 @@ export default function Greet() {
                         <div className="flex gap-4 justify-center md:justify-start mb-12 flex-wrap text-center">
                             <div className="is-uppercase p-0">
                                 <p className="text-5xl md:text-6xl font-heading text-accent glow animate-pulse ">
-                                    +14
+                                    +{new Date().getFullYear() - 2019}
                                 </p>
                                 <span className="text-white">Years of experience</span>
                             </div>
