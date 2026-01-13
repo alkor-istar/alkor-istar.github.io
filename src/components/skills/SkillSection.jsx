@@ -5,7 +5,7 @@ export default function SkillSection() {
     return (
         <section id="skills" className="py-20 px-6 bg-black bg-opacity-50">
             <div className="max-w-6xl mx-auto">
-                <h2 className="text-4xl font-heading mb-12 text-center color-text">Skills</h2>
+                <h2 className="text-4xl font-heading mb-12 text-center text-white">Skills</h2>
                 <div className="grid md:grid-cols-2 gap-8">
                     <div className="">
                         <h3 className="text-2xl font-semibold mb-6 text-gray-500 font-mono">Backend</h3>
