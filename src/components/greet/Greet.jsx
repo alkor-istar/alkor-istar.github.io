@@ -71,7 +71,7 @@ export default function Greet() {
                                 </a>
 
                                 <a
-                                    href="/docs/cv-en.pdf"
+                                    href="https://github.com/alkor-istar/cv-resume/releases/latest/download/Gabriel_Rodriguez_CV.pdf"
                                     target="_blank"
                                     download
                                     className="flex items-center px-8 py-3 text-white border border-default-medium font-semibold rounded-full hover:shadow-lg hover:shadow-primary/50 transition-all duration-300 transform hover:scale-105"
