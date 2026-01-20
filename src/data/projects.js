@@ -1,11 +1,12 @@
 export const projects = [
     {
-        id: "realtime-dashboard",
-        title: "Realtime Metrics Dashboard",
+        id: "imagick-agent",
+        title: "ImageMagick Agent",
         description:
-            "Real-time metrics dashboard using WebSockets/Kafka, PostgreSQL and React. Designed for observability and scale.",
-        tags: ["React", "Node.js", "WebSockets", "PostgreSQL", "Docker"],
-        github: "https://github.com/alkor-istar/realtime-dashboard",
+            "This is a full-stack application that lets you edit images using natural language instructions. It combines a modern React frontend with a FastAPI backend powered by LangGraph,  translating user intent into safe, executable ImageMagick commands.",
+        tags: ["Python", "React", "LangGraph", "FastAPI", "Docker"],
+        github: "https://github.com/alkor-istar/imagemagick-agent",
+        demo: "https://imagemagick-agent.vercel.app/"
     },
     {
         id: "powerlaw-bot",
