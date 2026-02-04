@@ -27,7 +27,7 @@ export default function Contact() {
                         GitHub
                     </a>
 
-                    <a href="https://www.linkedin.com/in/gabriel-rodriguez-b47b0920b/" target="_blank" rel="noopener"
+                    <a href="https://www.linkedin.com/in/rfgabriel/" target="_blank" rel="noopener"
                         className="flex items-center gap-3 px-6 py-3 bg-gradient-to-r from-fuchsia-500 to-fuchsia-600 text-white rounded-lg hover:shadow-lg hover:shadow-fuchsia-500/50 transition-all duration-300 transform hover:scale-105">
                         <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 20 20">
                             <path
