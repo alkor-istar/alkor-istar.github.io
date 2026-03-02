@@ -6,7 +6,6 @@ export const projects = [
             "This is a full-stack application that lets you edit images using natural language instructions. It combines a modern React frontend with a FastAPI backend powered by LangGraph,  translating user intent into safe, executable ImageMagick commands.",
         tags: ["Python", "React", "LangGraph", "FastAPI", "Docker"],
         github: "https://github.com/alkor-istar/imagemagick-agent",
-        demo: "https://imagemagick-agent.vercel.app/"
     },
     {
         id: "powerlaw-bot",
@@ -24,4 +23,13 @@ export const projects = [
         tags: ["React", "Tailwind", "Vite"],
         github: "https://github.com/alkor-istar/alkor-istar.github.io",
     },
+    {
+        id: "captioner",
+        title: "Image Captioner",
+        description:
+            "A tool to generate captions for images using Google Gemini's public API.",
+        tags: ["Javascript", "React"],
+        github: "https://github.com/alkor-istar/elodin",
+        demo: "https://elodin-caption.vercel.app/",
+    }
 ];
